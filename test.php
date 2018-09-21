@@ -3,5 +3,5 @@ echo "テストだよ";
 echo "testだよ" ;
 echo "ブランチ";
 echo "追加です";
-echo "develop追加";
+echo "develop追加しました！";
 ?>
